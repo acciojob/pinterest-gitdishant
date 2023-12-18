@@ -13,7 +13,7 @@
 .hero  img{
 	width:400px;
 	height:250px;
-	obhect-fit:cover;
+	object-fit:cover;
 }
 .hero  button{
 	padding:10px;
